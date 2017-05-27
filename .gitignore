@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+linux_sim
+*.npy
+data_alternative
+data_combined
+data_training
+*.mp4
+non-vehicles
+vehicles
+*.sav
